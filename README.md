@@ -20,6 +20,7 @@ All in One的中转站聚合平台
 | 服务商       | 价格                                   | 模型                          | 官网链接                                |
 |------------|--------------------------------------|-----------------------------|--------------------------------------|
 | 35-aigcbest| AZ 1.5R 一刀，官转更贵              | OpenAI                       | https://35.aigcbest.top/|
+| Tokens Forge | 模型广场实时价；官方 Credit 与普通 RMB Wallet 分账 | OpenAI + Claude + Gemini + AI研究员 | https://tokens-forge.com/ |
 | 星链API   | 按量付费0.2倍率 1R 一刀                     | OpenAI                       | https://sub.chancexj.com/    |
 | bltcy      | az 1元 一刀，官转 2.5元              | OpenAI                       | https://api.bltcy.ai/   |
 | v3         | 2R 一刀                              | OpenAI                       | https://api.v3.cm/      |
@@ -35,4 +36,3 @@ All in One的中转站聚合平台
 | OneChats   | 2R 一刀                              | OpenAI + Claude + Gemini     | https://chatapi.onechats.top/|
 | azapi      | az 0.8R 一刀 | OpenAI + Claude + Gemini     | https://azapi.com.cn/   |
 | openaiLabs | az 0.5R 一刀，纯OpenAI 2.5R 一刀     | OpenAI + Claude + Gemini     | https://www.openai-labs.com/|
-
